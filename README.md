@@ -1,8 +1,8 @@
 ## Olá / Hi there 👋
 
 - 🧑 Eu sou Luigi Eduardo / I’m Luigi Eduardo
-- 🎓 Sou formado como Técnico de Informática / I'm formed as a computer technician
-- 💻 Estou cursando Tecnologia em Sistemas para Internet / I'm studying Technology in Internet Systems
+- 💻 Técnico de Informática / Computer technician
+- 🎓 Estou cursando Tecnologia em Sistemas para Internet / I'm studying Technology in Internet Systems
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Lu1g10&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt2"/>
